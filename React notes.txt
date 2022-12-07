@@ -1,0 +1,9 @@
+npm i 
+npm install react-scripts
+npm install react-router-dom
+
+npm install axios
+
+npm install react-bootstrap bootstrap
+
+npm i sweetalert2-react --force
